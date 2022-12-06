@@ -1,0 +1,25 @@
+GulsahD3 mesaj = new GulsahD3();
+mesaj.ogrenci();
+
+GulsahD3 s1= new GulsahD3();
+s1.firstName ='John';
+s1.lastName ='Doe';
+s1.className = '7E';
+s1.art = false;
+s1.sport = true;
+s1.engGrade = 95;
+s1.mathGrade= 99;
+s1.scienceGrade= 90;
+system.debug(s1);
+s1.message();
+GulsahD3 s3= new GulsahD3();
+s2.firstName ='Gulsah';
+s2.lastName ='Ca';
+s2.className = '12MIT';
+s2.art = false;
+s2.sport = false;
+s2.engGrade = 99;
+s2.mathGrade= 90;
+s2.scienceGrade= 100;
+system.debug(s2);
+s2.message();

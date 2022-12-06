@@ -1,0 +1,6 @@
+//LATEST CREATED ACCOUNTS 
+
+
+SELECT Id, name FROM Account
+
+Select id, name, mailingcity from contact where Name like '%vi%'
